@@ -11,7 +11,7 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT)) # 畫面寬度和高度
 clock = pygame.time.Clock() # 可以用時間操控
 
 running = True # 執行遊戲迴圈
-
+ 
 # 遊戲迴圈
 while running:
     clock.tick(FPS) # 一秒執行幾次
