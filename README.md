@@ -42,4 +42,4 @@ while running:
 pygame.quit() # 把遊戲視窗關掉
 ```
 
-### 
+### 2021/10/09
